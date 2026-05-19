@@ -8,8 +8,8 @@
 <body>
     <h1>Data Mahasiswa</h1>
     <?php
-       $nama = "Luchyana Desi Safitri";
-       $nim = "2410010230";
+       $nama = "Nadiya Syafa";
+       $nim = "2410010577";
        $prodi = "Teknik Informatika";
        $ipk = 3.86;
        $sem = 4;
